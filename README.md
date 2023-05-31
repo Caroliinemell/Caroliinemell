@@ -12,3 +12,6 @@ Sou bacharel em Direito, migrei de área há 1 ano e meio em busca de novos desa
   <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/caroline-mello-5ba79365)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+![Snake animation] https://github.com/Caroliinemell
